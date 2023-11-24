@@ -1,8 +1,8 @@
 | 1. Introduction
 ----------------
     1.1 What is Join (inner), Left Join, Right Join
-        + Firstly, 
-        + What is RaceData: When multiple process are called to process and they use same CriticalRegion so 
+         When we need to get data from another table that's not exist on this table
+         we need to join with that another table
 
     1.2 How to understand their operating principles 
  
